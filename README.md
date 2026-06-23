@@ -950,41 +950,74 @@ Contraseña: Admin1234
 --- 
 
 ## Proyecto 8: Scynara - Sistema de Gestión para Comercio Minorista
-Sistema web full-stack para la gestión de una tienda o cadena de sucursales, con control de inventario, proveedores, productos, ventas, clientes y usuarios/empleados.
 
-### 🛠️ Tecnologías
-* Frontend: React 19, Vite, React Router DOM, Axios
-* Backend: Node.js, Express 5
-* Base de datos: MySQL 
-* Autenticación: JWT, hashing con argon2
-* Validación: Zod
-* Despliegue: Railway y Vercel
+**Scynara** es un sistema web full-stack diseñado para la gestión integral de una tienda o cadena de sucursales.  
+Permite administrar inventario, productos, proveedores, ventas, clientes y usuarios/empleados desde una plataforma centralizada.
 
-### ✨ Funcionalidades principales
+---
 
-* Autenticación y gestión de usuarios
-* Gestión de proveedores
-* Gestión de productos / inventario
-* Gestión de ventas
+### 🌐 Enlaces del proyecto
+
+| Recurso | Enlace |
+|---|---|
+| Frontend | [Repositorio Frontend](https://github.com/scynara09-hue/Scynara-Frontend) |
+| Backend | [Repositorio Backend](https://github.com/scynara09-hue/Scynara-Backend) |
+| Demo en vivo | [Ver aplicación](https://scynara-frontend.vercel.app/) |
+| Página estática | [Ver página estática](AQUÍ_VA_EL_ENLACE) |
+
+---
+
+### 🛠️ Tecnologías utilizadas
+
+| Área | Tecnologías |
+|---|---|
+| Frontend | React 19, Vite, React Router DOM, Axios |
+| Backend | Node.js, Express 5 |
+| Base de datos | MySQL |
+| Autenticación | JWT, hashing con Argon2 |
+| Validación | Zod |
+| Despliegue | Railway y Vercel |
+
+---
+
+### Funcionalidades principales
+
+- Autenticación y gestión de usuarios.
+- Gestión de proveedores.
+- Gestión de productos e inventario.
+- Gestión de ventas.
+- Control de clientes y empleados.
+- Administración de sucursales y operaciones comerciales.
+
+---
+
+### 🖼️ Capturas de pantalla
 
 <details>
-<summary>🖼️ Ver capturas de pantalla</summary>
-<img loading="lazy" width="1289" height="815" alt="principal" src="https://github.com/user-attachments/assets/4e0a99b5-fb40-44ab-9d35-57668798aaf8" />
-<img loading="lazy" width="1289" height="815" alt="servicios" src="https://github.com/user-attachments/assets/4d0ae50e-22b0-4823-833f-0e30a2db2174" />
+<summary>Ver capturas del sistema</summary>
+
+<br>
+
+<img loading="lazy" width="1289" height="815" alt="Pantalla principal de Scynara" src="https://github.com/user-attachments/assets/4e0a99b5-fb40-44ab-9d35-57668798aaf8" />
+
+<br><br>
+
+<img loading="lazy" width="1289" height="815" alt="Módulo de servicios de Scynara" src="https://github.com/user-attachments/assets/4d0ae50e-22b0-4823-833f-0e30a2db2174" />
+
 </details>
 
-Código Fuente: Frontend [Repositorio](https://github.com/scynara09-hue/Scynara-Frontend)
-Código Fuente: Backend [Repositorio](https://github.com/scynara09-hue/Scynara-Backend)
-Demo en Vivo: [Página Web](https://scynara-frontend.vercel.app/)
-### 🔑 Credenciales de Acceso (Para Evaluación)
+---
 
-- **Correo:** admin@scynara.com
-- **Contraseña:** aAdmin1234!
+### Credenciales de acceso para evaluación
 
-> ⚠️ Este usuario es de solo lectura. No tiene privilegios para eliminar ni modificar datos, con el fin de no dañar el proyecto en producción.
+| Campo | Dato |
+|---|---|
+| Correo | `admin@scynara.com` |
+| Contraseña | `aAdmin1234!` |
 
---- 
-  
+> Este usuario es de solo lectura. No tiene privilegios para eliminar ni modificar datos, con el fin de proteger la información del proyecto en producción.
+
+---
 ## Proyecto 9: Data Warehouse CDMX - Consumo de Agua y Clima
 Proyecto de Data Warehouse para analizar la correlación entre el consumo de agua y las condiciones climáticas en la Ciudad de México durante 2019.
 
