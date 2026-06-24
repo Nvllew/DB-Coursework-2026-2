@@ -956,18 +956,18 @@ Permite administrar inventario, productos, proveedores, ventas, clientes y usuar
 
 ---
 
-### 🌐 Enlaces del proyecto
+### Enlaces del proyecto
 
 | Recurso | Enlace |
 |---|---|
 | Frontend | [Repositorio Frontend](https://github.com/scynara09-hue/Scynara-Frontend) |
 | Backend | [Repositorio Backend](https://github.com/scynara09-hue/Scynara-Backend) |
 | Demo en vivo | [Ver aplicación](https://scynara-frontend.vercel.app/) |
-| Página estática | [Ver página estática](AQUÍ_VA_EL_ENLACE) |
+| Página estática | [Ver página estática](https://localstoragescynara-production.up.railway.app/) |
 
 ---
 
-### 🛠️ Tecnologías utilizadas
+### Tecnologías utilizadas
 
 | Área | Tecnologías |
 |---|---|
@@ -991,7 +991,7 @@ Permite administrar inventario, productos, proveedores, ventas, clientes y usuar
 
 ---
 
-### 🖼️ Capturas de pantalla
+### Capturas de pantalla
 
 <details>
 <summary>Ver capturas del sistema</summary>
@@ -1012,8 +1012,8 @@ Permite administrar inventario, productos, proveedores, ventas, clientes y usuar
 
 | Campo | Dato |
 |---|---|
-| Correo | `admin@scynara.com` |
-| Contraseña | `aAdmin1234!` |
+| Correo | `invitado@scynara.com` |
+| Contraseña | `Invitado1234!` |
 
 > Este usuario es de solo lectura. No tiene privilegios para eliminar ni modificar datos, con el fin de proteger la información del proyecto en producción.
 
