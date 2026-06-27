@@ -1,4 +1,4 @@
-# DB-Coursework-2026-2
+# DB-Coursework-2026-2-
 
 Repositorio de entrega para la asignatura de Bases de Datos (semestre 2026-2).
 
@@ -43,9 +43,9 @@ Plataforma web tipo red social enfocada en lectores, donde los usuarios pueden r
 
 | |
 |---|
-| <img loading="lazy"  alt="Login" width="800" src="https://github.com/user-attachments/assets/9f8b8d01-2880-4773-ac7e-0f6ee0bae7c8"/> | 
-| <img loading = "lazy" width="800" alt="Perfil de usuario" src="https://github.com/user-attachments/assets/6e9c99e6-8039-409f-a336-74028e68fe78" /> | 
-|  <img loading ="lazy" width="800" alt="Vista principal" src="https://github.com/user-attachments/assets/1b93c8fe-d090-4b01-98a9-a35d4af7d36e" />|
+| <img loading="lazy"  alt="Login" width="800" src="https://github.com/user-attachments/assets/51a06d92-129a-455e-aa63-19f5bf40cf43"/> | 
+| <img loading = "lazy" width="800" alt="Perfil de usuario" src="https://github.com/user-attachments/assets/60492584-a657-4edb-8a8a-8891fa97d270"/> | 
+|  <img loading ="lazy" width="800" alt="Vista principal" src="https://github.com/user-attachments/assets/f892b50d-cd25-46fe-a49b-ca60ab9ef6dd" />|
 </details>
 
 ### ✨ Funcionalidades principales
@@ -63,6 +63,10 @@ Código Fuente Backend: [Repositorio Backend](https://github.com/Diegocstln/book
 Código Fuente Frontend: [Repositorio Frontend](https://github.com/Diegocstln/mi-proyecto-bd)
 
 Demo en Vivo: [Booksnexus Web](https://diegocstln.github.io/mi-proyecto-bd/)
+
+Versión estática/localStorage, sin base de datos real: [Booksnexus Estatico](https://diegocstln.github.io/mi-proyecto-bd/?mode=local). 
+
+Backend/API Render: [Booksnexus API](https://booksnexus-back.onrender.com). 
 
 Para el acceso administrador con las teclas CTRL + SHIFT + A
 
@@ -700,6 +704,15 @@ El sistema de diseño usa variables CSS definidas en `style.css` (`--bg-surface`
 
 ---
 
+## Repositorio Frontend versión estatica:
+- **Enlace** [Repositorio](https://github.com/20gercha06-stack/VinylVibes_Local_Front)
+
+## Repositorio Backend versión estatica:
+- **Enlace** [Repositorio](https://github.com/20gercha06-stack/VinylVibes_Local_Back-.git)
+
+## Pagina En vivo Con base de datos local:
+- **Enlace** [Pagina web](https://20gercha06-stack.github.io/VinylVibes_Local_Front/)
+
 ## Despliegue
 
 - **Backend:** hospedado en [Render](https://render.com). Configura las variables de entorno en Render → Environment.
@@ -886,46 +899,46 @@ manejo de personal e informacion sobre los servicios proporcionados.
 * Panel administrativo interno para el control de la agenda y expedientes.
 
 <details>
-<summary>🖼️ Ver Imagenes del Proyecto</summary>
+<summary>🖼️ Ver Imágenes del Proyecto</summary>
 
 | Pantalla de Inicio |
 |---|
-| <img loading="lazy" src="./fotos/inicio.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/inicio.png" width="800"/> |
 
 | Servicios |
 |---|
-| <img loading="lazy" src="./fotos/servicios.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/servicios.png" width="800"/> |
 
 | Login |
 |---|
-| <img loading="lazy" src="./fotos/login.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/login.png" width="800"/> |
 
 | Panel de Citas |
 |---|
-| <img loading="lazy" src="./fotos/cita-1.png" width="800"/> |
-| <img loading="lazy" src="./fotos/cita-2.png" width="800"/> |
-| <img loading="lazy" src="./fotos/cita-3.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/cita-1.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/cita-2.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/cita-3.png" width="800"/> |
 
 | Clientes |
 |---|
-| <img loading="lazy" src="./fotos/cliente.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/cliente.png" width="800"/> |
 
 | Inventario |
 |---|
-| <img loading="lazy" src="./fotos/inv.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/inv.png" width="800"/> |
 
 | Recepcionista |
 |---|
-| <img loading="lazy" src="./fotos/rec.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/rec.png" width="800"/> |
 
 | Administrador |
 |---|
-| <img loading="lazy" src="./fotos/admin-1.png" width="800"/> |
-| <img loading="lazy" src="./fotos/admin-2.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/admin-1.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/admin-2.png" width="800"/> |
 
 | Veterinario |
 |---|
-| <img loading="lazy" src="./fotos/vet.png" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/Jaely19/Patitas-Sanas/main/fotos/vet.png" width="800"/> |
 
 </details>
 
@@ -1105,15 +1118,14 @@ El sistema funciona como un gestor relacional de expedientes que automatiza el c
 <img width="1600" height="754" alt="abogado" src="https://github.com/user-attachments/assets/42c0483c-c947-4d44-b400-08c2e912a4ad" loading="lazy" /> 
 <img width="1600" height="746" alt="regisclient" src="https://github.com/user-attachments/assets/446e047b-f2e5-4d17-b529-74141bc8edc4" loading="lazy" />
 </details>
-🔑 Credenciales de Acceso (Para Evaluación)
-Para ingresar al sistema con privilegios totales de administrador y evaluar el flujo completo (dashboard, creación de escrituras y alta de personal), utiliza la siguiente cuenta:
-* **Rol:** Notario Titular
-* **Usuario:** roberto.notario@notaria105.com
-* **Contraseña:** c123
- 
-🔗 Enlaces
-* **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
-* **Demo en Vivo:** [notaria105](https://notaria-105.onrender.com/)
+### 🔑 Accesos (Evaluación)
+* **Notario:** `notario@notaria105.com` / `notario123`
+* **Abogado:** `abogado@notaria105.com` / `abogado123`
+* **Cliente:** `cliente@example.com` / CURP: `PELJ850303HDFRPN03`
+
+### 🔗 Enlaces del Sistema
+* **Principal:** [Código Fuente](https://github.com/s06008525-max/notaria-105) | [Despliegue](https://notaria-105.onrender.com/)
+* **Estático:** [Código Fuente](https://github.com/ingmatmus7-ai/notaria105_estatica) | [Despliegue](https://ingmatmus7-ai.github.io/notaria105_estatica/)
 
 # Proyecto 11: Refaccionaria Leo 🚗
 
@@ -1148,6 +1160,26 @@ Este proyecto consiste en un sitio web de comercio electrónico para una refacci
 * [Repositorio en GitHub](https://github.com/Nahum1802/Refaccionaria-Leo)
 * [Sitio Web en Vivo](https://nahum1802.github.io/Refaccionaria-Leo/)
 
+## Cuentas de Acceso ##
+* **Correo:** tester1@test.com
+* **COntraseña:** tester1234
+
+## Pagina Estatica
+
+* [Repositorio en GitHub](https://github.com/miraanda21/Refaccionaria-Leo-Static.git)
+* [Sitio Web en Vivio](https://miraanda21.github.io/Refaccionaria-Leo-Static/)
+
+## Cuentas de Acceso a la Pagina Estatica
+
+### Tester
+* **Correo:** tester@refaccionarialeo.com
+* **Contraseña:** tester123
+
+### Cliente
+
+* **Correo:** cliente@correo.com
+* **Contraseña:** cliente123
+
 ## Proyecto 12: Distribuidora de Abarrotes Kafra
 
 Sistema integral para la gestión de inventario, ventas y distribuicion de abarrotes.
@@ -1169,6 +1201,15 @@ Sistema integral para la gestión de inventario, ventas y distribuicion de abarr
 ### 🔗 Enlaces
 * **Código Fuente:** [Repositorio en GitHub](https://github.com/DerekArenas/kafra-dashboard)
 * **Demo en Vivo (Github Pages):** [Pagina Distribuidora Kafra](https://derekarenas.github.io/kafra-dashboard/)
+* **Pagina estatica:** [Pagina Distribuidora Kafra](https://sodaplanta.github.io/sitio-practica/)
+
+<details>
+<summary>🖼️ Login para pagina estatica</summary>
+User:
+admin
+Password:
+123
+</details>
 
 <details>
 <summary>🖼️ Login para consulta</summary>
@@ -1182,8 +1223,14 @@ rdBg2yGGGR
 ## Proyecto 13 PAPIROSSO (papeleria)
 
 **Integrantes:** [Rodríguez Martínez José y Rosales Juarez Alexis]
-**GitHub:** https://github.com/jorvsk2007/jorvsk2007.github.io.git
-**LandingPage:** https://jorvsk2007.github.io/
+**GitHub:**\
+https://github.com/jorvsk2007/jorvsk2007.github.io.git \
+**LandingPage:**\
+https://jorvsk2007.github.io/Papirosso/ \
+**GitHub (Estatico):**\
+https://github.com/Thoyx/PapirossoOffline \
+**Pagina Estatica**\
+https://thoyx.github.io/PapirossoOffline/
 
 ### Formas de acceder
 **Trabajador:** CHOC000101HDFRRR00  **Contraseña:** chocolate123
@@ -1254,6 +1301,30 @@ Admin de prueba:EMP-0003 Contraseña 12345
 Código Fuente: [Repositorio](https://github.com/sofi-14/gitfin)
 Página web: [PáginaWeb](https://sofi-14.github.io/gitfin/)
 
+PAGINA ESTATICA 
+
+Esta versión no usa Supabase ni base de datos real. Los datos se simulan en el navegador con localStorage.
+
+ARCHIVO PRINCIPAL:
+- index.html
+
+CUENTAS DE PRUEBA:
+
+Administrador:
+- Usuario: EMP-0042
+- Contraseña: 1234
+
+Administrador alterno:
+- Usuario: EMP-0001
+- Contraseña: admin123
+
+Empleado:
+- Usuario: EMP-0002
+- Contraseña: empleado123
+
+Página estatica: https://dianalizzt.github.io/huellitas-estatico/
+Repositorio: https://github.com/dianalizzt/huellitas-estatico
+
 
 ## 😷 Proyecto 15: Sistema de Agendado de citas medicas
 Sistema web para el agendado y gestión de citas medicas en un hospital
@@ -1291,6 +1362,9 @@ Sistema web para el agendado y gestión de citas medicas en un hospital
 ##  🔗 Enlaces del Proyecto
 Código Fuente: [Repositorio Github] (https://github.com/AugustoHFV/SistemaMedicoHOST)
 Demo en Vivo: [Sistema Medico] (https://sistemamedico-1gmy.onrender.com)
+Paginta Estatica: [Link de la pagina]  (https://warinsanomachine.github.io/sistema-medico-estatico/)
+Sesion de Administrador de la pagina estatica: admin@medico.com || Contraseña: Amdhn123
+Sesion de Medico de la pagina estatica: daniel@medico.com || Daniel123 
 
 ## Proyecto 16: Payapp+
 Payapp es un sistema gestor de servicios financieros que ayuda al cliente a tener una mejor gestion de sus finanzas, asi como tambien ofrece distintas opciones que se adecuan a las necesidades del cliente.
@@ -1419,6 +1493,9 @@ https://github.com/JULIO-MILAN/mantra-backend
 **Demo en vivo:**
 https://mantra-backend-24g1.onrender.com/
 
+**Link version estatica:**
+https://julio-milan.github.io/MANTRA-ESTATICO/index.html
+
 ## Proyecto 18: Compañía de Danza — App de administración
 
 Aplicación de laboratorio para administrar integrantes, bailes, presentaciones, cuadros, observaciones e inventario. El sistema fue desarrollado con HTML, CSS y JavaScript puro, y se conecta a una base de datos Postgres en Supabase mediante una función RPC para ejecutar consultas SQL.
@@ -1474,7 +1551,12 @@ Aplicación de laboratorio para administrar integrantes, bailes, presentaciones,
 
 - **Código Fuente:** [Repositorio en GitHub](https://github.com/avril1699/Grupo-Jaltepec-BD/tree/main)
 - **Demo en Vivo (Vercel):** [Ver proyecto](https://grupo-jaltepec-bd.vercel.app/)
+- **Página Estática:** [Ver página estática](https://paginaestaticagj.vercel.app/)
 
+### Credenciales de prueba para página estática
+
+- **Usuario:** `integrante@danza.mx`
+- **Contraseña:** `pass123`
 ## Proyecto 19: ABV Library (Sistema de Gestión de Librería)
 
 Sistema web completo de gestión para una librería/biblioteca. Permite administrar libros, empleados, clientes, proveedores, ventas, préstamos y donaciones desde una interfaz moderna tipo marketplace con tres roles de acceso.
@@ -1558,242 +1640,85 @@ Sistema web completo de gestión para una librería/biblioteca. Permite administ
 - **Demo en Vivo (GitHub Pages):** [ABV Library](https://abelgod27.github.io/abv_library/)
 - **Demo en Vivo (Render):** [ABV Library](https://libreria-va.onrender.com)
 
-# La Casita - Mini Súper Web con Laravel
-
-## Descripción
-
-**La Casita** es una aplicación web desarrollada con **Laravel** para administrar de forma básica un mini súper. Permite gestionar productos, clientes, empleados, proveedores, sucursales, promociones, inventario, ventas y preguntas frecuentes.
-
-El proyecto incluye autenticación, registro de clientes, control de sesiones, roles de usuario y paneles diferentes para administrador, empleado y cliente.
-
+La Casita - Sistema Web para Mini Súper
+Descripción
+La Casita es un sistema web académico para administrar un mini súper. El proyecto integra el diseño de una base de datos relacional con una aplicación desarrollada en Laravel, conectada a MySQL y preparada para ejecutarse mediante Docker.
+El sistema permite gestionar productos, categorías, clientes, empleados, proveedores, sucursales, inventario, promociones, ventas y preguntas frecuentes. También incluye autenticación y control de acceso por roles.
 ---
-
-## Tecnologías utilizadas
-
-- Laravel 12
-- PHP 8.2 o superior
-- MySQL / MariaDB
-- Composer
-- Blade Templates
-- HTML, CSS y JavaScript
-- XAMPP
-- phpMyAdmin
-
+Enlaces del proyecto
+Repositorio:  
+https://github.com/DVD-BD/LaCasita
+Aplicación desplegada en Railway:  
+https://lacasita-production-560a.up.railway.app
+Versión estática en GitHub Pages:  
+https://dvd-bd.github.io/LaCasita/
 ---
-
-## Funcionalidades principales
-
-- Página pública del negocio.
-- Registro e inicio de sesión.
-- Panel de administrador, empleado y cliente.
-- Gestión de productos, categorías, clientes, empleados y proveedores.
-- Gestión de sucursales, promociones y preguntas frecuentes.
-- Consulta de inventario y ventas.
-- Catálogo e historial de compras para clientes.
-- Protección de rutas por sesión y rol.
-
----
-
-## Roles del sistema
-
-| Rol | Descripción |
-|---|---|
-| Administrador | Acceso completo a la administración del sistema. |
-| Empleado | Acceso operativo a productos, inventario y ventas. |
-| Cliente | Consulta catálogo y compras realizadas. |
-
----
-
-## Cuentas de prueba
-
-| Rol | Correo | Contraseña |
-|---|---|---|
-| Administrador | admin@lacasita.com | 123456 |
-| Empleado | empleado@lacasita.com | 123456 |
-| Cliente | cliente@lacasita.com | 123456 |
-
----
-
-## Capturas del proyecto
-
-<details>
-<summary>🖼️ Ver capturas de pantalla</summary>
-
-### Página de inicio
-
-![Página de inicio](Inicio.png)
-
----
-
-### Catálogo de productos
-
-![Catálogo de productos](CATALOGO.png)
-
----
-
-### Promociones
-
-![Promociones](Oferta.png)
-
----
-
-### Sucursales
-
-![Sucursales](Sucursales.png)
-
----
-
-### Ayuda
-
-![Ayuda](Ayuda.png)
-
----
-
-### Panel de administrador
-
-![Panel de administrador](ADMIN.png)
-
----
-
-### Panel de empleado
-
-![Panel de empleado](EMPLEADO.png)
-
----
-
-### Panel de cliente
-
-![Panel de cliente](CLIENTE.png)
-
-</details>
-
----
-
-## Estructura general
-
-```txt
-LaCasita/
-├── app/
-├── bootstrap/
-├── config/
-├── database/
-├── public/
-├── resources/
-├── routes/
-├── storage/
-├── Inicio.png
-├── CATALOGO.png
-├── Oferta.png
-├── Sucursales.png
-├── Ayuda.png
-├── ADMIN.png
-├── EMPLEADO.png
-├── CLIENTE.png
-├── artisan
-├── composer.json
-├── composer.lock
-└── README.md
-```
-
----
-
-## Instalación local
-
-1. Colocar el proyecto en:
-
-```txt
-C:\xampp\htdocs\LaCasita
-```
-
-2. Encender en XAMPP:
-
-```txt
-Apache
+Tecnologías utilizadas
+Laravel
+PHP
 MySQL
-```
-
-3. Crear en phpMyAdmin una base de datos llamada:
-
-```txt
-lacasita_laravel
-```
-
-4. Configurar el archivo `.env`:
-
-```env
-APP_NAME="La Casita"
-APP_ENV=local
-APP_DEBUG=true
-APP_URL=http://127.0.0.1:8000
-
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=lacasita_laravel
-DB_USERNAME=root
-DB_PASSWORD=
-```
-
-5. Ejecutar los comandos:
-
-```bash
-cd C:\xampp\htdocs\LaCasita
-composer install
-php artisan key:generate
-php artisan migrate:fresh --seed
-php artisan optimize:clear
-php artisan serve
-```
-
-6. Abrir en el navegador:
-
-```txt
-http://127.0.0.1:8000
-```
-
+Blade
+HTML, CSS y JavaScript
+Docker y Docker Compose
+GitHub
+Railway
+GitHub Pages
 ---
-
-## Rutas principales
-
-| Ruta | Descripción |
-|---|---|
-| `/` | Página principal |
-| `/login` | Inicio de sesión |
-| `/registro` | Registro de cliente |
-| `/dashboard` | Panel según el rol |
-| `/productos` | Gestión de productos |
-| `/inventario` | Consulta de inventario |
-| `/ventas` | Consulta de ventas |
-| `/cliente/catalogo` | Catálogo del cliente |
-| `/cliente/compras` | Compras del cliente |
-
+Prácticas integradas
+El proyecto reúne las prácticas realizadas durante la materia de Base de Datos:
+Análisis del caso de estudio: definición del mini súper, usuarios, procesos y necesidades.
+Modelo Entidad-Relación: identificación de entidades, atributos, relaciones y cardinalidades.
+Modelo Entidad-Relación Extendido: ajuste del modelo conceptual y representación de usuarios y relaciones principales.
+Modelo Relacional: transformación del modelo conceptual a tablas, llaves primarias y llaves foráneas.
+Implementación de la base de datos: creación de tablas, relaciones y datos iniciales en MySQL.
+Desarrollo del sistema web: implementación en Laravel con migraciones, seeders, controladores, vistas, roles y Docker.
 ---
-
-## Seguridad implementada
-
-- Autenticación de usuarios.
-- Protección de rutas privadas.
-- Control de acceso por rol.
-- Contraseñas cifradas con hash.
-- Protección CSRF en formularios.
-- Validaciones del lado del servidor.
-- Uso de Eloquent ORM.
-
+Funcionalidades principales
+Inicio de sesión y registro de usuarios.
+Control de acceso por roles: administrador, empleado y cliente.
+Gestión de productos, categorías, clientes, empleados, proveedores y sucursales.
+Gestión de inventario, promociones, ventas y preguntas frecuentes.
+Catálogo de productos para clientes.
+Registro de compras e historial del cliente.
+Conexión con base de datos MySQL.
+Versión estática publicada en GitHub Pages.
 ---
-
-## Notas importantes
-
-- No subir `.env` a GitHub.
-- No subir `vendor` ni `node_modules`.
-- En producción usar `APP_DEBUG=false`.
-- Las imágenes del README deben estar en la raíz del repositorio, junto al archivo `README.md`.
-
+Roles del sistema
+Rol	Funciones principales
+Administrador	Acceso completo a los módulos del sistema.
+Empleado	Consulta y gestión de información operativa.
+Cliente	Consulta de catálogo, promociones e historial de compras.
 ---
-
-## Conclusión
-
-**La Casita** es un proyecto web funcional desarrollado con Laravel y MySQL. Integra autenticación, roles, operaciones CRUD y paneles diferenciados para administrar un mini súper de manera sencilla.
-
+Cuentas de prueba
+Rol	Correo	Contraseña
+Administrador	admin@lacasita.com	123456
+Empleado	empleado@lacasita.com	123456
+Cliente	cliente@lacasita.com	123456
+---
+Capturas del sistema
+<details>
+<summary>Ver capturas</summary>
+Página de inicio
+![Página de inicio](capturas/Inicio.png)
+Catálogo
+![Catálogo de productos](capturas/CATALOGO.png)
+Promociones
+![Promociones](capturas/Oferta.png)
+Sucursales
+![Sucursales](capturas/Sucursales.png)
+Panel de administrador
+![Panel de administrador](capturas/ADMIN.png)
+Panel de empleado
+![Panel de empleado](capturas/EMPLEADO.png)
+Panel de cliente
+![Panel de cliente](capturas/CLIENTE.png)
+</details>
+---
+Estado del proyecto
+El sistema cuenta con una versión funcional en Laravel conectada a MySQL y desplegada en Railway. También se agregó una versión estática en GitHub Pages para presentar el flujo principal del sistema sin depender del servidor.
+---
+Conclusión
+La Casita integra el análisis, diseño e implementación de una base de datos relacional dentro de una aplicación web funcional. El proyecto demuestra el uso de modelos ER, EER y relacional, además de su implementación en Laravel, MySQL y Docker.
 
 ## Carniceria la Ideal 
 
@@ -1946,7 +1871,7 @@ Sistema web de registro y control de recepción de productos para la empresa **C
 
 **Panel de administración**
 
-<img src="https://github.com/aleaguiballos-cell/ProyectoBD2/blob/main/screenshot/aministrador" alt="Panel de administración" loading="lazy" width="800">
+<img src="https://github.com/aleaguiballos-cell/ProyectoBD2/blob/main/screenshot/Administrador.png" alt="Panel de administración" loading="lazy" width="800">
 
 ---
 
@@ -2114,12 +2039,19 @@ Plataforma web enfocada en la comunidad universitaria (alumnos y profesores), di
 * **Despliegue:** GitHub Pages
 
 <details>
-<summary>🖼️ Ver capturas de pantalla</summary>
-| | |
+<summary>🖼️ Ver capturas de pantalla de la plataforma</summary>
+
+| Pantalla de Inicio | Inicio de Sesión |
 |:---:|:---:|
-| <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Page.png" alt="Vista principal de la Pagina - Bibliotech" width="400"/> | <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Login.png" alt="Login - BiblioTech" width="400"/> |
-| <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Register.png" alt="Registro - BiblioTech" width="400"/> | <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Preview.png" alt="Vista Previa de la Pagina de Libro - BiblioTech" width="400"/> |
-| <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Section.png" alt="Vista de la Seccion - BiblioTech" width="400"/> | |
+| <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Imagenes/Documentacion/Page.png" alt="Vista principal" width="400"/> | <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Imagenes/Documentacion/Login.png" alt="Login" width="400"/> |
+
+| Registro de Usuario | Vista de Catálogo / Sección |
+|:---:|:---:|
+| <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Imagenes/Documentacion/Register.png" alt="Registro" width="400"/> | <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Imagenes/Documentacion/Section.png" alt="Vista de Sección" width="400"/> |
+
+| Vista Previa del Libro |
+|:---:|
+| <img loading="lazy" src="https://github.com/xsuik33/xsuik33.github.io/blob/main/Imagenes/Documentacion/Preview.png" alt="Detalle del Libro" width="400"/> |
 
 </details>
 
