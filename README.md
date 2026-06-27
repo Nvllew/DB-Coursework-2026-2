@@ -1,4 +1,4 @@
-# DB-Coursework-2026-2
+# DB-Coursework-2026-2-
 
 Repositorio de entrega para la asignatura de Bases de Datos (semestre 2026-2).
 
@@ -1204,8 +1204,14 @@ rdBg2yGGGR
 ## Proyecto 13 PAPIROSSO (papeleria)
 
 **Integrantes:** [Rodríguez Martínez José y Rosales Juarez Alexis]
-**GitHub:** https://github.com/jorvsk2007/jorvsk2007.github.io.git
-**LandingPage:** https://jorvsk2007.github.io/
+**GitHub:**\
+https://github.com/jorvsk2007/jorvsk2007.github.io.git \
+**LandingPage:**\
+https://jorvsk2007.github.io/Papirosso/ \
+**GitHub (Estatico):**\
+https://github.com/Thoyx/PapirossoOffline \
+**Pagina Estatica**\
+https://thoyx.github.io/PapirossoOffline/
 
 ### Formas de acceder
 **Trabajador:** CHOC000101HDFRRR00  **Contraseña:** chocolate123
